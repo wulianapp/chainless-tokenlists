@@ -20,6 +20,134 @@
     "timestamp": "2025-06-18T19:46:38.015Z",
     "tokens": [
         {
+            "chainId": 1500,
+            "address": "0x2063e5D18835a9dc39652484FfEB28109A8F69F4",
+            "name": "Wrapped BTC",
+            "symbol": "BTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0xDcAe73373c5f893B75d4199C39bdc9B3CE1b8aC8",
+            "name": "Wrapped ETH",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0x673A78d9124fD96Ef1142cDf1b53A7De5C52137E",
+            "name": "Wrapped DW20",
+            "symbol": "DW20",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0x927cf42B857414044D92Cc2d249C57Be8141250B",
+            "name": "Wrapped CLY",
+            "symbol": "CLY",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0x6F9D2A606efB39a8f0782929b991161f6718eB6d",
+            "name": "Wrapped USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0x19c087Fadb4629CC5055b34633d4a6444890Cb68",
+            "name": "Wrapped USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0xef0b138466E6E437e9B25D7264a144C727DafD8b",
+            "name": "Wrapped USDD",
+            "symbol": "USDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 1500,
+            "address": "0x080b3947E78E1Ae5EC6dCAAE21b949791CEB7740",
+            "name": "Wrapped USDD2",
+            "symbol": "USDD2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "BTC",
+            "name": "Wrapped BTC",
+            "symbol": "BTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "ETH",
+            "name": "Wrapped ETH",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "DW20",
+            "name": "Wrapped DW20",
+            "symbol": "DW20",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "CLY",
+            "name": "Wrapped CLY",
+            "symbol": "CLY",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "USDT",
+            "name": "Wrapped USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "USDC",
+            "name": "Wrapped USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "usdd-eth.cross-chains.contract",
+            "name": "Wrapped USDD",
+            "symbol": "USDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
+            "chainId": 101,
+            "address": "usdd2-eth.cross-chains.contract",
+            "name": "Wrapped USDD2",
+            "symbol": "USDD2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+        },
+        {
             "chainId": 1,
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "name": "Wrapped Ether",
